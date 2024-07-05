@@ -1,5 +1,9 @@
-# In this project we r Scraping the List of larget comanies in the USA by using BeautifulSoup package 
+# Web Scraping Application Using "beautifulsoup4"
+visit https://pypi.org/project/beautifulsoup4/ to know more about beautifulsoup
+# requirements 
+pip install requests
 
-# Requirements ->  pip install pandas Beautifulsoup4 requests
+pip install beautifulsoup4
+# Run 
+python app.py
 
-# To run -> python app.py
