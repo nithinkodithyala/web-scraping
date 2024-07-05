@@ -31,3 +31,7 @@ for row in column_data[1:]:
 
 print(df)
 # We are representing our data By DataFrames 
+
+# save the data local via converting the Dataframe to .csv file
+# df.to_csv(r'E:\companies.csv')
+df.to_csv(r'path to save the csv\file-name.csv')
