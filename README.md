@@ -1,4 +1,4 @@
-# A simple Web Scraping Application Which uses "beautifulsoup4"
+# Web Scraping Application Using "beautifulsoup4"
 visit https://pypi.org/project/beautifulsoup4/ to know more about beautifulsoup
 # requirements 
 pip install requests
